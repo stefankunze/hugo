@@ -1,0 +1,2 @@
+# hugo
+Static page generator
