@@ -9,26 +9,8 @@
     
     
     
-    <lastBuildDate>Sat, 31 Jan 2015 12:55:36 CET</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UT</lastBuildDate>
     <atom:link href="http://yourSiteHere/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>first</title>
-      <link>http://yoursitehere/post/first/</link>
-      <pubDate>Sat, 31 Jan 2015 12:55:36 CET</pubDate>
-      
-      <guid>http://yoursitehere/post/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://yoursitehere/about/</link>
-      <pubDate>Sat, 31 Jan 2015 12:55:15 CET</pubDate>
-      
-      <guid>http://yoursitehere/about/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
